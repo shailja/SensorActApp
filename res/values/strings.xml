@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">SensorAct</string>
+    <string name="hello_world">Welcome To Sensor Act</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash">SensorAct</string>
+    
+    <string name="sensorapp">Sensor App</string>
+    <string name="register">Click To Register</string>
+    <string name="login">Login(New User)</string>
+    <string name="log">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="linktoreg">New to SensorAct? Register here</string>
+    <string name="email">Email</string>
+    <string name="register_new">Register New Account</string>
+    <string name="old_user">Already has account</string>
+    <string name="prv_user">Existing User?Login here</string>
+    <string name="msg_ch">Enter channel details</string>
+    <string name="main_no_items">Click one of the following</string>
+    <color name="black">#ffffffff</color>
+    <string name="name">Device Name</string>
+    <string name="ip">IP</string>
+    <string name="location">Location</string>
+    <string name="tag">Tag</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="next">Next</string>
+    <color name="slategray">#C6E2FF</color>
+    <color name="navy">#000080</color>
+    <string name="add_msg">Device Profile</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="id">id</string>
+    <string name="type">Type</string>
+    <string name="unit">Unit</string>
+    <string name="sampling_period">Sampling period</string>
+    <string name="ch_name">Channel name</string>
+    <string name="another_channel">Add another channel</string>
+    <string name="device_name">DeviceName</string>
+    <string name="delete">Delete</string>
+    <string name="get">Get</string>
+    <string name="back_btn">Back</string>
+    <string name="hello">Welcome To SensorAct</string>
+    <color name="dodgerblue">#1E90FF</color>
+    <string name="Checkbox">Save User Name</string>
+    <string name="new_ip">New IP</string>
+    <string name="menu">Menu</string>
+    <string name="set_ip">Set IP</string>
+    <string name="login_screen">Back to Login Screen</string>
+    <string name="plot">Plot Device</string>
+    <string name="data_plot">Plot Data</string>
+    <string name="sid">Sid</string>
+    <string name="ftime">From Time</string>
+    <string name="ttime">To Time</string>
+    <string name="get_response">Get Response</string>
+    <string name="username1">Username</string>
+    <string name="devicename1">Device name</string>
+    <string name="sensorname1">SensorName</string>
+    <string name="sensorid">SensorID</string>
+    <string name="channelname">Channel name</string>
+	 
+
+
+</resources>

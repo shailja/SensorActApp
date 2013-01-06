@@ -1,0 +1,96 @@
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tableLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+		<TableRow>
+
+	        <TextView
+	            android:id="@+id/txt_username"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/username1"
+	            android:textColor="#0b84aa" />
+
+	         <TextView
+	            android:id="@+id/txt_uname"
+	            android:layout_width="0dip"
+	            android:layout_weight="1"
+	            android:textColor="#0b84aa"
+	            android:layout_height="wrap_content"
+	             />
+		</TableRow>
+	
+		<TableRow>
+
+	        <TextView
+	            android:id="@+id/txt_devicename"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/devicename1"
+	            android:textColor="#0b84aa" />
+
+	         <TextView
+	            android:id="@+id/txt_dname"
+	            android:layout_width="0dip"
+	            android:layout_weight="1"
+	            android:layout_height="wrap_content"/>
+		</TableRow>
+		
+		<TableRow>
+
+	        <TextView
+	            android:id="@+id/txt_sensorname"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/sensorname1"
+	            android:textColor="#0b84aa" />
+
+	         <TextView
+	            android:id="@+id/txt_name"
+	            android:layout_width="0dip"
+	            android:layout_weight="1"
+	            android:textColor="#0b84aa"
+	            android:layout_height="wrap_content" />
+	     </TableRow>
+	     <TableRow>
+
+	        <TextView
+	            android:id="@+id/txt_sensorid"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/sensorid"
+	            android:textColor="#0b84aa" />
+
+	         <TextView
+	            android:id="@+id/txt_id"
+	            android:layout_width="0dip"
+	            android:layout_weight="1"
+	            android:textColor="#0b84aa"
+	            android:layout_height="wrap_content" />
+		</TableRow>
+	     
+	      <TableRow>
+
+	        <TextView
+	            android:id="@+id/txt_channelname"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:text="@string/channelname"
+	            android:textColor="#0b84aa" />
+
+	         <TextView
+	            android:id="@+id/txt_channel"
+	            android:layout_width="0dip"
+	            android:layout_weight="1"
+	            android:textColor="#0b84aa"
+	            android:layout_height="wrap_content"/>
+		</TableRow>
+		
+		
+    </TableLayout>
